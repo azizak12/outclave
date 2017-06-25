@@ -1,6 +1,7 @@
 #Outclave
 #Just like home
 #Discover your community
+
 Purpose: 
 “Why don’t they just learn english?”, is a question that many people ask when it comes to immigration issues. The answer: it’s harder than you think. More and more immigrants take tremendous efforts in learning english and adjusting to a new life and a new home in the U.S. because doing so allows them to have a better career and a stable life. However, immigrants are faced with multiple societal and economic barriers that prevent them from doing so: one being ethnic enclaves like Chinatown. 
  
